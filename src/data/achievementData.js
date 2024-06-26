@@ -1,5 +1,5 @@
 export const achievementData = {
-    bio : "L'éducation est l'allumage d'une flamme, et non le remplissage d'un vase.- Socrate" ,
+    bio : "Le meilleur code est celui que l'on n'a pas besoin d'écrire. - Josh Clark" ,
     achievements : [
         {
             id : 1,
